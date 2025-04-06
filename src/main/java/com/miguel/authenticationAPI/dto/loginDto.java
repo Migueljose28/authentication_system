@@ -1,6 +1,6 @@
 package com.miguel.authenticationAPI.dto;
 
-public class authDto {
+public class loginDto {
     private String nome;
     private String senha;
 
